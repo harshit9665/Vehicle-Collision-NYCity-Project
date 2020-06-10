@@ -1,6 +1,8 @@
 # Vehicle-Collision-NYCity-Project
 ## This project uses streamlit library in python to built an interactive Webapp.
 
+![](3Dmap.JPG)
+
 In the above code I have loaded, explored, visualized and interact with data, and generate dashboards in less than 100 lines of Python code! Things covered in this project are
 
 1: Turn Simple Python Scripts into Web Apps
@@ -8,6 +10,7 @@ In the above code I have loaded, explored, visualized and interact with data, an
 2: Load the Motor Vehicle Collisions Data
 
 3: Visualize Data on a Map
+![](map.JPG)
 
 4: Filtering Data and Interactive Tables
 
