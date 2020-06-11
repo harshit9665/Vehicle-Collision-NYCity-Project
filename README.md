@@ -27,10 +27,15 @@ Things covered in this project are
 8: Select Data Using Dropdowns
 
 This Project precisely consists of:-
+
 -> Where are the most people injured in NYC?
+
 -> How many collisions occur during a given time of day?
+
 -> Top 5 dangerous streets by affected class( Pedestrians, Cyclists & Motorists)
 
 I have also included Slider widget in my web app which updates dynamically through which we can know
+
 -> Number of persons injured in vehicle collisions by sliding
+
 -> At what time of day collisions happened
